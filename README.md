@@ -1,5 +1,6 @@
 # Olist Marketing Analytics: RFM Customer Segmentation
 **Turning "Spray and Pray" Marketing into a Precision Revenue Engine.**
+Tableau Dashboard: https://public.tableau.com/app/profile/mane.ananyan/viz/draft_17690887405460/Dashboard1
 
 Automated customer segmentation engine built with SQL. Identifies high-value "Champions" and "At-Risk" users to drive retention strategies.
 
